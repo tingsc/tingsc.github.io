@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>黑金 on Ting&#39;s Portfolio</title>
+    <link>https://tingsc.github.io/tags/%E9%BB%91%E9%87%91/</link>
+    <description>Recent content in 黑金 on Ting&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 16 Dec 2022 18:10:45 +0800</lastBuildDate><atom:link href="https://tingsc.github.io/tags/%E9%BB%91%E9%87%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇文章</title>
+      <link>https://tingsc.github.io/blog/test/</link>
+      <pubDate>Fri, 16 Dec 2022 18:10:45 +0800</pubDate>
+      
+      <guid>https://tingsc.github.io/blog/test/</guid>
+      <description>Hello World
+I want to test.
+一級標題 二級標題 六級標題 我是粗體</description>
+    </item>
+    
+  </channel>
+</rss>
